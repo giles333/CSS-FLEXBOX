@@ -7,3 +7,35 @@ div {
     background-color: yellowgreen;
     color: white;
 }
+Mathematics {
+    width: 20px;
+    background-color: green;
+}
+English {
+    width: 20px;
+    background-color: greenyellow;
+}
+Basic Science {
+    width: 20px;
+    background-color: yellow;
+}
+PHE {
+    width: 20px;
+    background-color: orange;
+}
+PVS {
+    width: 20px;
+    background-color: orangered;
+}
+French {
+    width: 20px;
+    background-color: red;
+}
+Igbo {
+    width: 20px;
+    background-color: blue;
+}
+ICT {
+    width: 20px;
+    background-color: blueviolet;
+}
