@@ -1,0 +1,9 @@
+div {
+    width: 300px;
+    border: 15px ridge green;
+    padding: 100px;
+    margin: 100px;
+    font-size: larger;
+    background-color: yellowgreen;
+    color: white;
+}
